@@ -39,6 +39,16 @@ The analysis of the election show that:
 
   * Largest county was Denver 306,055 votes. 
  
- ![image](https://user-images.githubusercontent.com/111100908/187805227-77493562-deb7-4939-b175-0310030842fb.png)
+ <img src="https://user-images.githubusercontent.com/111100908/187805227-77493562-deb7-4939-b175-0310030842fb.png" width=50% height=50%>
 
+
+# Challenge Summary
+ Firstly, the code can be modified considering the things like ballots are electronic or paper and based on that the candidates appeals will get affected.
+ Secondly, the code can be modified with any new additions considering the ethnicity of the candidates , considering the parties like congress or independent
+ candidates or considering the cities like wise.
+ To add these modifications the elections_data.csv needs to be updated with additional data.
+ Those are some of the challenges that can incorporated and PyPoll.py can be refactored to perform the analysis and get the results.
+ The output file is just a text file not so pleasing can be modified to visualise the data better.
+ 
+ 
 
